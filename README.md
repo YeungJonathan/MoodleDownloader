@@ -1,5 +1,6 @@
 # MoodleDownloader 
-A chrome extension for downloading Moodle resources 💾
+A chrome extension for downloading Moodle resources 💾 My first javascript project! 😬
+
 
 ## Installation 💻
 1. Open the Extension Management page by navigating to `chrome://extensions` (The Extension Management page can also be opened by clicking on the Chrome menu, hovering over More Tools then selecting Extensions)
@@ -27,5 +28,3 @@ source: https://developer.chrome.com/extensions/getstarted
 Realised in the week 11 that I don't have most of the resources 😭 
 
 <br/>
-
-PS. My second javascript project! 😬
